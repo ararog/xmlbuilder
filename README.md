@@ -1,10 +1,6 @@
 xmlbuilder
 ==========
 
-.NET XMLBuilder
-
-! *.NET XML Builder*
-
 A DSL to help on XML authoring, with this library you can create xml content with few lines of code, there's no need to use System.Xml classes, the XMLBuilder hides all complexity behind xml generation.
 
 ## Quickstart
