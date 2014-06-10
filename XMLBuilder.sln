@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "XMLBuilder", "XMLBuilder\XMLBuilder.oxygene", "{A9DD250E-069C-4E34-BECA-0F21709FD4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DD250E-069C-4E34-BECA-0F21709FD4DE}.Debug|Default.ActiveCfg = Debug
+		{A9DD250E-069C-4E34-BECA-0F21709FD4DE}.Debug|Default.Build.0 = Debug
+		{A9DD250E-069C-4E34-BECA-0F21709FD4DE}.Release|Default.ActiveCfg = Release
+		{A9DD250E-069C-4E34-BECA-0F21709FD4DE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
